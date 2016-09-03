@@ -252,6 +252,10 @@ p {
   background-color: #e61919;
 }
 
+.footer-link {
+  color: #fff;
+}
+
 @media (max-width: 991px) {
   h3 {
     margin-top: 15px;
